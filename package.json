@@ -7,7 +7,7 @@
     "start": "n8n"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.17.0 <23.0.0"
   },
   "dependencies": {
     "n8n": "^1.8.2"
